@@ -1,0 +1,11 @@
+    div.slider{
+        width: 100%;
+        padding: 10px;
+        background-image: url('../images/background3.jpg');
+        background-size: cover;
+        background-attachment: fixed;
+    }
+    div.slider>*{
+        margin:500px auto;
+        color: whitesmoke;
+    }

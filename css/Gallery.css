@@ -1,0 +1,51 @@
+div.slider1{
+    width: 100%;
+    padding: 10px;
+    background-image: url('../images/background2.jpg');
+    background-size: cover;
+}
+div.slider1>*{
+    width: 600px;
+    height:300px;
+    margin-left: 299px;
+    background-size: cover;
+    display: inline-block;
+}
+div.slider1>div.slider1-1{
+    background-image: url('../images/Gallery1.jpg');
+    margin-left: 0;
+}
+div.slider1>div.slider1-2{
+    background-image: url('../images/Gallery2.jpg');
+}
+div.slider1>div.slider1-3{
+    background-image: url('../images/Gallery3.jpg');
+    margin-left: 0;
+    margin-top: 10px;
+}
+div.slider1>div.slider1-4{
+    background-image: url('../images/Gallery4.jpg');
+    margin-top: 10px;
+}
+div.slider1>div.slider1-5{
+    background-image: url('../images/Gallery5.jpg');
+    margin-top: 10px;
+    margin-left: 0px;
+
+}
+div.slider1>div.slider1-6{
+    background-image: url('../images/Gallery6.jpg');
+    margin-top: 10px;
+
+}
+div.slider1>div.slider1-7{
+    background-image: url('../images/Gallery7.jpg');
+    margin-top: 10px;
+    margin-left: 0px;
+
+}
+div.slider1>div.slider1-8{
+    background-image: url('../images/Gallery8.jpg');
+    margin-top: 10px;
+
+}

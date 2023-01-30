@@ -1,0 +1,11 @@
+div.video{
+    width: 100%;
+    padding: 10px;
+    background-image: url('../images/background.jpg');
+    background-size: cover;
+}
+
+div.video>div.first{
+    width: 800px;
+    height: 800px;
+margin-left:   calc(50% - 800px/2);}
